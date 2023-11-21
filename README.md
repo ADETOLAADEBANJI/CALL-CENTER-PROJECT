@@ -13,7 +13,7 @@
 
 [Insights](#insights)
 
-[Dashboard](dashboard)
+[Dashboard](#dashboard)
 
 
 ### Project Analysis
