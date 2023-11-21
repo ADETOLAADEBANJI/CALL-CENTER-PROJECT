@@ -1,5 +1,21 @@
 # CALL CENTER PROJECT
 
+## Table of Content
+[project Analysis](#project-analysis)
+
+[Data Source](#data-source)
+
+[Data Preparation](#data-preparation)
+
+[Data Description](#data-description)
+
+[Data Analysis](#data-analysis)
+
+[Insights](#insights)
+
+[Dashboard](dashboard)
+
+
 ### Project Analysis
 
 
@@ -67,6 +83,13 @@ Total calls = 'Call Data'[Inbound]+'Call Data'[Outbound]
 
 
 ![call center dashboard](https://github.com/ADETOLAADEBANJI/CALL-CENTER-PROJECT/assets/149164492/7b61a49a-7363-4037-8067-1d58927ca62e)
+
+
+
+
+
+
+
 
 
 
