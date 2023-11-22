@@ -40,7 +40,7 @@ The tabulation below shows the Call data table, manager data table and process d
 |      -----------|                                                -----------|
 |      Weekend    |It shows the dates the calls were made                     |
 |      Emp Id     |Represents every unique observation in the dataset         |
-|      Nmae       |Describes the name of the agent                            |
+|      Name       |Describes the name of the agent                            |
 |      Inbound    |Describes a call initiated by the customer or prospect     |
 |      Outbound   |Describes a call initiated by a call center representative |
 | Avg Call handled|Represent the average call time                            |
